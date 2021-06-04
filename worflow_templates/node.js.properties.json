@@ -1,0 +1,8 @@
+{
+  "name": "Node.JS CI",
+  "description": "Template to run unit test",
+  "iconName": "grpn-icon",
+  "categories": [
+    "JavaScript"
+  ]
+}

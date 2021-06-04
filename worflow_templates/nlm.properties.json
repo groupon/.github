@@ -1,0 +1,8 @@
+{
+  "name": "NLM PR tagging",
+  "description": "Template to run NLM verify & semver tag PRs",
+  "iconName": "grpn-icon",
+  "categories": [
+    "JavaScript"
+  ]
+}

@@ -1,1 +1,1 @@
-# .github
+# Groupon Actions workflow templates

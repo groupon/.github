@@ -1,0 +1,8 @@
+{
+  "name": "Publish to NPM",
+  "description": "Template publish to NPM with NLM",
+  "iconName": "grpn-icon",
+  "categories": [
+    "JavaScript"
+  ]
+}
